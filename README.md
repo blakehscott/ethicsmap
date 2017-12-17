@@ -1,11 +1,11 @@
 Things to do:
 - Rename "HelloWorld.py" to something usefull. How about "app.py" ?
 - Model data:
-	User
-	Question
-	Answer
-	Ethic
-	Source
+	- User
+	- Question
+	- Answer
+	- Ethic
+	- Source
 
 Purpose of this Application:
 ...
